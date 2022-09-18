@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "menu": {
+      "favorites": "Favoris",
+      "dark_mode": "Mode nuit"
+    }
+  },
+  "meteo": {
+    "search": {
+      "action": "Rechercher",
+      "placeholder": "Paris, Rabat..."
+    },
+    "visualisation": {
+      "wind": "Vent",
+      "wind_direction": "Direction"
+    },
+    "favorites": {
+      "list": "La liste des villes favorites",
+      "empty_list": "La liste des favoris est vide.",
+      "toggle_location": "Ajouter/Retirer la ville aux favoris",
+      "remove_location": "Retirer la ville des favoris"
+    }
+  }
+}
